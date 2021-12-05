@@ -2,3 +2,8 @@ Style/NegatedIf:
   Enabled: false
 Style/FrozenStringLiteralComment:
   Enabled: false
+Style/Documentation:
+  Enabled: false
+Layout/ArgumentAlignment:
+  Enabled: true
+  EnforcedStyle: with_fixed_indentation
